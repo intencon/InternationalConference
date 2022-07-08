@@ -4284,16 +4284,14 @@ del {
     color: #fff
 }
 .column {
-    float: left;
-    width: 50%;
+    width: 100%;
     color: white;
     padding: 100px;
     height: 700px;
     text-align:justify;
   }
   .column1{
-    float: left;
-    width: 50%;
+    width: 100%;
     color: white;
     padding: 100px;
     height: 400px;
